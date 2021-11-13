@@ -1,2 +1,3 @@
 # Ingnore all pyc files.
 *.pyc
+.sqlite3
