@@ -1,2 +1,4 @@
 # Ingnore all pyc files.
 *.pyc
+.sqlite3
+env
